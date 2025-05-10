@@ -17,7 +17,6 @@ Source: [Marketing A/B Testing Dataset on Kaggle](https://www.kaggle.com/dataset
 
 ---
 
----
 
 ## 📊 Key Results
 
@@ -40,7 +39,6 @@ Source: [Marketing A/B Testing Dataset on Kaggle](https://www.kaggle.com/dataset
 - P(ad > psa): **1.000**  
 - Credible interval (95%): **[0.0059, 0.0094]**
 
----
 ---
 
 ## 🧰 Tools & Libraries
